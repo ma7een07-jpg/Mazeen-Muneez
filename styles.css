@@ -324,7 +324,7 @@ h2 {
 }
 
 .client-tile img.logo-shrink {
-  transform: scale(0.75);
+  transform: scale(0.85);
 }
 
 .client-tile span {
