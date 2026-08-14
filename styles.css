@@ -319,6 +319,14 @@ h2 {
   transform: scale(1.3);
 }
 
+.client-tile img.logo-boost-lg {
+  transform: scale(1.65);
+}
+
+.client-tile img.logo-shrink {
+  transform: scale(0.75);
+}
+
 .client-tile span {
   font-size: 13px;
   color: var(--text-soft);
