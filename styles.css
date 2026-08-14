@@ -75,8 +75,10 @@ img {
 
 .nav .wrap {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  row-gap: 10px;
 }
 
 .nav-name {
