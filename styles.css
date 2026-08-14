@@ -109,6 +109,20 @@ img {
   color: var(--sage-deep);
 }
 
+@media (max-width: 560px) {
+  .nav {
+    padding: 20px 0;
+  }
+  .nav .wrap {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .nav-links {
+    gap: 20px;
+  }
+}
+
 /* ---------- Hero ---------- */
 
 .hero {
